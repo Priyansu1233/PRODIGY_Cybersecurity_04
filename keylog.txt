@@ -1,0 +1,2 @@
+[shift]Helloo[backspace] [shift]@123 
+[shift]QWorld[esc]
